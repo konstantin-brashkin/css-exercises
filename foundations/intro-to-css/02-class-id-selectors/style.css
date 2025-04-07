@@ -1,0 +1,19 @@
+.based {
+	background-color: #FFA7A7;
+	font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+.obese {
+	font-size: 24px;
+}
+
+#first_one {
+	color: #0000FF;
+	font-size: 36px;
+}
+
+#last_one {
+	background-color: #80FF80;
+	font-size: 24px;
+	font-weight: bold;
+}
